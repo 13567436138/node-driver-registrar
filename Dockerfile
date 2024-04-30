@@ -1,1 +1,1 @@
-FROM docker.io/calico/node-driver-registrar:v3.24.5
+FROM docker.io/calico/node-driver-registrar:v3.26.1
